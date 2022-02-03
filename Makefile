@@ -1,5 +1,5 @@
 PKG_NAME := pypi-types_cryptography
-URL = https://files.pythonhosted.org/packages/fc/05/2762084e416c9e7266c4990703db0946d16f502864527f6176604cdb25f8/types-cryptography-3.3.14.tar.gz
+URL = https://files.pythonhosted.org/packages/95/58/c7bde11f8b34ae2771f6622eb026e3ccca77b9445aff6920b4175b52993a/types-cryptography-3.3.15.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
