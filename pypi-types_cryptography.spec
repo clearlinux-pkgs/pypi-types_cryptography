@@ -4,7 +4,7 @@
 #
 Name     : pypi-types_cryptography
 Version  : 3.3.21
-Release  : 13
+Release  : 14
 URL      : https://files.pythonhosted.org/packages/c6/b5/fc4c9915f39999aa567444bb415167d87fe30854565e5135171c5a839965/types-cryptography-3.3.21.tar.gz
 Source0  : https://files.pythonhosted.org/packages/c6/b5/fc4c9915f39999aa567444bb415167d87fe30854565e5135171c5a839965/types-cryptography-3.3.21.tar.gz
 Summary  : Typing stubs for cryptography
